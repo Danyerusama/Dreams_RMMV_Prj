@@ -1,4 +1,7 @@
 # Game Project Intro
+
+[Demo](https://github.com/Danyerusama/DYR_IdleCommonEvent/assets/142346653/5a94391d-6bec-4c61-adfc-494b16ce8bfc)
+
 Welcome to the initial phase of our exciting game project! In this section, we provide a detailed glimpse into the early stages of the game, all the way up to the appearance of the main menu title. Whether it’s the initial loading screen, the introductory narrative, or the artistic design of the title menu, we are committed to crafting an immersive and engaging experience from the very beginning.
 
 ## Key Features of the Starting Game:
