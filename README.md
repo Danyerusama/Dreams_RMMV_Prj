@@ -1,4 +1,4 @@
-# RMMV Game Project Intro Showcase
+# My RMMV Game Project Intro Showcase
 
 ![Project RMMV1](https://github.com/Danyerusama/DYR_IdleCommonEvent/assets/142346653/6d557832-4ce3-4912-8343-3b41afe7fcda)
 
